@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intents</string>
+    <string name="reasi">"      REASI"</string>
+    <string name="kathua">"      KATHUA"</string>
+    <string name="doda">"        DODA"</string>
+    <string name="comments">"  Comments"</string>
+    <string name="donation">"  Donation"</string>
+</resources>
